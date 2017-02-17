@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UrlConfig>
+  <Urls>
+    <UrlInfo name="应用1" url="http://api.sample.com/autocalc" schedule="* * * * *" ready="true"></UrlInfo>
+    <UrlInfo name="应用2" url="http://api.sample.com/deletedata" schedule="* * * * *" ready="true"></UrlInfo>
+  </Urls>
+</UrlConfig>

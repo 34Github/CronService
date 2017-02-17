@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UrlConfig>
+  <Urls>
+    <UrlInfo name="测试网站" url="http://www.baidu.com" schedule="*/10 * * * *" ready="true"></UrlInfo>
+    
+  </Urls>
+</UrlConfig>

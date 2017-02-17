@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UrlConfig>
+  <Urls>
+    <UrlInfo name="96600万事通正式申报端" url="http://www.96600.gov.cn/portal/default.aspx" schedule="*/10 * * * *" ready="true"></UrlInfo>
+    <UrlInfo name="96600万事通正式审批端" url="http://123.150.43.38:9090/portal/index.aspx" schedule="*/10 * * * *" ready="true"></UrlInfo>
+	<UrlInfo name="电子市民中心正式申报端" url="http://www.mysensetec.com/portal/default.aspx" schedule="*/10 * * * *" ready="true"></UrlInfo>
+	<UrlInfo name="电子市民中心正式审批端" url="http://www.mysensetec.com:8080/ecobpsite/index.aspx" schedule="*/10 * * * *" ready="true"></UrlInfo>
+	<UrlInfo name="经济局小帮手" url="http://123.150.43.33:8080/JfMgrSite/Default.aspx" schedule="*/10 * * * *" ready="true"></UrlInfo>
+	<UrlInfo name="建设局小帮手" url="http://123.150.43.33:9090/jianshesite/Default.aspx" schedule="*/10 * * * *" ready="true"></UrlInfo>
+	<UrlInfo name="社会局小帮手" url="http://221.238.40.115:9080/SheHuisite/" schedule="*/10 * * * *" ready="true"></UrlInfo>
+	<UrlInfo name="社会局基础数据库系统" url="http://221.238.40.115:5055/SheQuSite/" schedule="*/10 * * * *" ready="true"></UrlInfo>
+  </Urls>
+</UrlConfig>
